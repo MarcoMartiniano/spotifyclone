@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187103067703",
+    "project_id": "spotifyclonewithfirebase",
+    "storage_bucket": "spotifyclonewithfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187103067703:android:7c41a17c1ea47158b5c9b2",
+        "android_client_info": {
+          "package_name": "com.marco.spotifyclonewithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187103067703-6bd5vibe41eveqq2q5mimi8od5h6fdce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChqX25M1oiE6BPIUL_bUoF1g-mY3wMTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187103067703-6bd5vibe41eveqq2q5mimi8od5h6fdce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
